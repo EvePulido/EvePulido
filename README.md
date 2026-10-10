@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 <br>
@@ -76,7 +76,7 @@
 
 ---
 
-## 🌱 Currently
+## Currently
 
 | | |
 |---|---|
